@@ -1,0 +1,9 @@
+.Box{
+    margin:1rem;
+    margin-right:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
+	flex-shrink: 0;
+}

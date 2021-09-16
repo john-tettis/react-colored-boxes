@@ -1,0 +1,25 @@
+.new-box-form{
+    box-sizing: border-box;
+    padding:2rem;
+    display:flex;
+    height:100%;
+    flex-direction:column;
+    justify-content: space-around;
+    background-color:antiquewhite;
+}
+
+.new-box-form-container{
+    
+    margin-bottom:2rem;
+    
+}
+.new-box-form-container1{
+    width:80%;
+}
+.new-box-form-container2{
+    width:20%;
+}
+
+.new-box-form-container2 > *{
+    margin-bottom:1rem;
+}

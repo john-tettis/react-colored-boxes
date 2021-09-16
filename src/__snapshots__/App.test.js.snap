@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders NewBoxForm 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="box-list"
+    >
+      <div
+        class="box-list-container"
+      >
+        <form
+          class="new-box-form"
+        >
+          <div
+            class="new-box-form-container1"
+          >
+            <div
+              class="new-box-form-container"
+            >
+              <span
+                class="MuiSlider-root MuiSlider-colorPrimary"
+                id="height"
+                type="range"
+              >
+                <span
+                  class="MuiSlider-rail"
+                />
+                <span
+                  class="MuiSlider-track"
+                  style="left: 0%; width: 37.5%;"
+                />
+                <input
+                  name="height"
+                  type="hidden"
+                  value="100"
+                />
+                <span
+                  aria-labelledby="discrete-slider-always"
+                  aria-orientation="horizontal"
+                  aria-valuemax="200"
+                  aria-valuemin="40"
+                  aria-valuenow="100"
+                  class="MuiSlider-thumb MuiSlider-thumbColorPrimary PrivateValueLabel-open-7 PrivateValueLabel-thumb-6"
+                  data-index="0"
+                  role="slider"
+                  style="left: 37.5%;"
+                  tabindex="0"
+                >
+                  <span
+                    class="PrivateValueLabel-offset-8 MuiSlider-valueLabel"
+                  >
+                    <span
+                      class="PrivateValueLabel-circle-9"
+                    >
+                      <span
+                        class="PrivateValueLabel-label-10"
+                      >
+                        100
+                      </span>
+                    </span>
+                  </span>
+                </span>
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+                id="discrete-slider-always"
+              >
+                Height
+              </p>
+            </div>
+            <div
+              class="new-box-form-container"
+            >
+              <span
+                class="MuiSlider-root MuiSlider-colorPrimary"
+                id="width"
+                type="range"
+              >
+                <span
+                  class="MuiSlider-rail"
+                />
+                <span
+                  class="MuiSlider-track"
+                  style="left: 0%; width: 37.5%;"
+                />
+                <input
+                  name="width"
+                  type="hidden"
+                  value="100"
+                />
+                <span
+                  aria-labelledby="discrete-slider-always"
+                  aria-orientation="horizontal"
+                  aria-valuemax="200"
+                  aria-valuemin="40"
+                  aria-valuenow="100"
+                  class="MuiSlider-thumb MuiSlider-thumbColorPrimary PrivateValueLabel-open-7 PrivateValueLabel-thumb-6"
+                  data-index="0"
+                  role="slider"
+                  style="left: 37.5%;"
+                  tabindex="0"
+                >
+                  <span
+                    class="PrivateValueLabel-offset-8 MuiSlider-valueLabel"
+                  >
+                    <span
+                      class="PrivateValueLabel-circle-9"
+                    >
+                      <span
+                        class="PrivateValueLabel-label-10"
+                      >
+                        100
+                      </span>
+                    </span>
+                  </span>
+                </span>
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+                id="discrete-slider-always"
+              >
+                Width
+              </p>
+            </div>
+          </div>
+          <div
+            class="new-box-form-container2"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+              id="discrete-slider-always"
+            >
+              Color
+            </p>
+            <input
+              id="color"
+              name="color"
+              type="color"
+              value=""
+            />
+          </div>
+          <button
+            aria-label="create square"
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Add Square
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </form>
+      </div>
+      <div
+        class="box-list-list"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
